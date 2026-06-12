@@ -59,7 +59,7 @@ nav a{
 }
 
 .hero{
-    background:url('../images/hero.jpg') center center/cover;
+    background:url('hero.jpg') center center/cover;
     height:80vh;
 }
 
